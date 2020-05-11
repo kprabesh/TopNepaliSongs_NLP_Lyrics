@@ -9,8 +9,7 @@
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
 [![Repo-Size](https://img.shields.io/github/repo-size/kprabesh/TopNepaliSongs_NLP_Lyrics.svg)](../../archive/master.zip)
 
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/kprabesh/TopNepaliSongs_NLP_Lyrics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kprabesh/NLP_songlyrics/alerts/)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/kprabesh/TopNepaliSongs_NLP_Lyrics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kprabesh/TopNepaliSongs_NLP_Lyrics/context:python)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/kprabesh/TopNepaliSongs_NLP_Lyrics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kprabesh/TopNepaliSongs_NLP_Lyrics/alerts/)
 
 
 
