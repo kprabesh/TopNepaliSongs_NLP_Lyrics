@@ -9,8 +9,5 @@
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
 [![Repo-Size](https://img.shields.io/github/repo-size/kprabesh/TopNepaliSongs_NLP_Lyrics.svg)](../../archive/master.zip)
 
-
-
-
 # TopNepaliSongs_NLP_Lyrics
 Top 4 Nepali songs Lyrics, How has it changed over years?
